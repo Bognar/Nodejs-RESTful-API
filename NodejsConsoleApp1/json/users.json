@@ -1,0 +1,23 @@
+﻿{
+  "korisnik1": {
+    "name": "Kristina",
+    "password": "pwd1",
+    "profession": "Uciteljica",
+    "img": "img/noimage.png",
+    "id": 1
+  },
+  "korisnik2": {
+    "name": "Josip",
+    "password": "pwd2",
+    "profession": "Elektrotehnicar",
+    "img": "img/noimage.png",
+    "id": 2
+  },
+  "korisnik3": {
+    "name": "Manuela",
+    "password": "pwd3",
+    "profession": "Opatica",
+    "img": "img/noimage.png",
+    "id": 3
+  }
+}

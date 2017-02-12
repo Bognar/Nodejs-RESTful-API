@@ -31,11 +31,14 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="app.js" />
+    <Content Include="img\noimage.png" />
     <Content Include="package.json" />
     <Content Include="README.md" />
-    <Content Include="users.json" />
+    <Content Include="json\users.json" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="img\" />
+    <Folder Include="json\" />
     <Folder Include="typings\" />
     <Folder Include="typings\globals\" />
     <Folder Include="typings\globals\node\" />
