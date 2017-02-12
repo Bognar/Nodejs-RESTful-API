@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-console-app1",
+  "version": "0.0.0",
+  "description": "NodejsConsoleApp1",
+  "main": "app.js",
+  "author": {
+    "name": "matrix"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "express": "^4.14.1"
+  }
+}
